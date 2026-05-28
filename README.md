@@ -1,3 +1,8 @@
+
+Tic-Tac-toe-game 
+
+
+
 Built using HTML, CSS, and JavaScript. In this project I worked on game logic, DOM manipulation, event handling, and styling.
 Features: • Two-player gameplay
 • Winner detection
