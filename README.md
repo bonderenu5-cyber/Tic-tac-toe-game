@@ -1,11 +1,10 @@
 Tic Tac Toe Game
-A simple Tic Tac Toe game built using HTML, CSS and JavaScript.
-Features
-Two-player game
-Winner detection
-Reset game button
-New game button
-Technologies Used
-HTML
-CSS
-JavaScript
+
+
+
+Built using HTML, CSS, and JavaScript. In this project I worked on game logic, DOM manipulation, event handling, and styling.
+Features: • Two-player gameplay
+• Winner detection
+• Reset and New Game buttons
+• Responsive design
+This project was a great hands-on learning experience and helped me strengthen my frontend development skills.
